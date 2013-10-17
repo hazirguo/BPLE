@@ -14,6 +14,9 @@ void clean_up_child_process(int signal_num)
 
     /* store its exit status in a global variable */
     child_exit_status = status;
+
+    printf("sleep another one mininute...zZ...\n");
+    sleep(60);
 }
 
 int main()
