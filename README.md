@@ -8,3 +8,7 @@
 希望自己在看内核的同时,也要注重上层 Linux 环境 C 语言编程, 内外结合, 效果应该会更加!
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hazirguo/bple/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
